@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "my_mod",
+  "version": "${version}",
+  "name": "my_mod",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/IC/my_mod"
+  },
+  "license": "MIT",
+  "icon": "assets/my_mod/icon/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "icecat.test.aka.my_mod.Client"
+    ],
+    "main": [
+      "icecat.test.aka.my_mod.Main"
+    ]
+  },
+  "mixins": [
+    "test_mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "item.my_mod.test_food": "测试食物",
+  "gui.my_mod.get_test_food": "获取测试食物",
+  "text.my_mod.ShowGui": "显示界面",
+  "text.my_mod.server_give_test_food": "从服务器获得了测试食物。",
+  "category.my_mod": "MyMod",
+  "key.my_mod.show_gui": "显示界面",
+  "key.my_mod.dash": "冲刺",
+  "tip.my_mod.cooling_down": "冷却中: %s s"
+}

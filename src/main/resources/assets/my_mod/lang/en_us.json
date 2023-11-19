@@ -1,0 +1,10 @@
+{
+  "item.my_mod.test_food": "TestFood",
+  "gui.my_mod.get_test_food": "Get TestFood",
+  "text.my_mod.ShowGui": "Show Gui",
+  "text.my_mod.server_give_test_food": "Get TestFood From Server!",
+  "category.my_mod": "MyMod",
+  "key.my_mod.show_gui": "Show Gui",
+  "key.my_mod.dash": "Dash",
+  "tip.my_mod.cooling_down": "Cooling Down: %s s"
+}

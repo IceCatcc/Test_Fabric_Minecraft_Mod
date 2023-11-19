@@ -1,0 +1,8 @@
+# 项目排除路径
+/.gradle/
+/.vscode/
+/.idea/
+/build/
+/run/
+/bin/
+
